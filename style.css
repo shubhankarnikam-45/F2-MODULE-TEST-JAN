@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.container{
+    display:flex;
+    position: relative;
+    top:15px;
+    margin: 0 111px;
+}
+
+.container img{
+    height:200px;
+    width:200px;
+    padding: 5px;;
+    border:1px solid black
+}
+
+.container img:hover{
+    transform: scale(1.1);
+}
+
+.form-registration
+{
+    margin-top: 34px;
+}
+
+#diceImage{
+    margin-top:30px;
+}
