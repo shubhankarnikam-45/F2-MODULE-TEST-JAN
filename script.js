@@ -143,7 +143,7 @@ function playDiceGame(e) {
 }
 
 
-//code we user click on the image thrice
+//code we user click on the image THREE TIME
 genRandomNumber();
 function genRandomNumber() {
 
